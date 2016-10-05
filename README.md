@@ -1,0 +1,4 @@
+Foo
+---
+
+A sample package

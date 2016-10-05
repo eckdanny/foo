@@ -1,0 +1,20 @@
+{
+  "name": "say-hi",
+  "version": "0.0.1",
+  "description": "sample package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eckdanny/foo.git"
+  },
+  "author": "Danny Eck <daniel.eck@accenture.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/eckdanny/foo/issues"
+  },
+  "homepage": "https://github.com/eckdanny/foo#readme",
+  "private": true
+}
